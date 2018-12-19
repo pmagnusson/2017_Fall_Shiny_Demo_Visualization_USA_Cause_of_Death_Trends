@@ -1,4 +1,5 @@
 UTSA Master of Science in Data Analytics
+
 DA6233 Data Visualization and Communication
 Fall 2017
 
